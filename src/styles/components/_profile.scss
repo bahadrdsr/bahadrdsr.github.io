@@ -1,0 +1,12 @@
+.profile{
+    &__image-box{
+        border-radius: 50%;
+    }
+    &__image{
+        height: 80%;
+        width:80%;
+    }
+    &__description{
+        font-size: 1.4rem;
+    }
+}

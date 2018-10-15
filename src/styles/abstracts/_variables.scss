@@ -1,0 +1,31 @@
+$shadow-dark: 0 2rem 6rem rgba(0, 0, 0, .3);
+$shadow-light: 0 2rem 5rem rgba(0, 0, 0, .06);
+// COLOR VARIABLES
+$color-primary-light: #91a3b9;
+$color-primary: #67809f;
+$color-primary-dark: #313e4d;
+
+$color-secondary: #9f6773;
+
+$color-grey-light-1: #f3f1ef;
+$color-grey-light-2: #e4e9ed;
+
+$color-grey-dark-1: #474b4b;
+$color-grey-dark-2: #2e3131;
+
+$color-yellow-dark : #9D842C;
+$color-yellow-light : #F3DF96;
+$color-orange-dark : #824C1D;
+$color-orange-light : #B8783F;
+$color-purple-dark : #5B398F;
+$color-purple-light : #7657A7;
+
+$line: 1px solid var(--color-grey-light-2);
+
+// FONT VARIABLES
+$font-primary: 'Nunito',
+sans-serif;
+$font-display: 'Josefin Sans',
+sans-serif;
+
+$random-number: random(10) - 5;

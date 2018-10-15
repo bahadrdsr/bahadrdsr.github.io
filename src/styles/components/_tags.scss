@@ -1,0 +1,15 @@
+.tags{
+    margin-left: 1rem;
+    font-weight: 400;
+    &__tag{
+        padding: .5rem 1rem;
+        background-color: $color-grey-light-2;
+        color: $color-grey-dark-2;
+        margin: 0 .5rem;
+        transition: all .2s;
+        &:hover{
+            background-color: $color-primary;
+            color: $color-grey-light-1;
+        }
+    }
+}
